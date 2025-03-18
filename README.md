@@ -1,9 +1,7 @@
 
-
-# Tema POO  - GwentStone
-# made by Plamadeala Victoria 325CAb
-
 ## Skel Structure
+
+made bty Victoria Plamadeala
 
 * src/
   * fileio/ - contains classes used to read data from the json files
