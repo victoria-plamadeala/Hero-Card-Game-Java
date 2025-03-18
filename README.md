@@ -1,7 +1,7 @@
 
 ## Skel Structure
 
-made bty Victoria Plamadeala
+made by Victoria Plamadeala
 
 * src/
   * fileio/ - contains classes used to read data from the json files
